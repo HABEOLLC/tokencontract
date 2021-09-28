@@ -22,7 +22,7 @@ Check our Youtube channel: https://www.youtube.com/channel/UCmZa_90rxRD08rDiSa7N
 pragma solidity ^0.8.0;
 
 // All these interfaces and cotracts are here to provide the standard functionality for the BEP-20/ERC-20 tokens.
-// To look at HABEO's code, start looking at line 375.
+// To look at HABEO's code, start looking at line 385.
 interface IERC20 {
 
     function totalSupply() external view returns (uint256);
